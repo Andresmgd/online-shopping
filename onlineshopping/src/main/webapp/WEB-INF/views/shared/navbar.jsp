@@ -11,11 +11,11 @@
 					<li class="nav-item" id="about">
 						<a class="nav-link" href="${pageContext.request.contextPath}/about">About</a>
 					</li>
-					<li class="nav-item" id="listProducts">
-						<a class="nav-link" href="${pageContext.request.contextPath}/listProducts">Services</a>
-					</li>
 					<li class="nav-item" id="contact">
 						<a class="nav-link" href="${pageContext.request.contextPath}/contact">Contact</a>
+					</li>
+					<li class="nav-item" id="listProducts">
+						<a class="nav-link" href="${pageContext.request.contextPath}/show/all/products">View Products</a>
 					</li>
 				</ul>
 			</div>

@@ -15,7 +15,13 @@
 	</properties>
 
 	<dependencies>
-
+		
+		<!-- Link backend -->
+		<dependency>
+			<groupId>net.and</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		
 		<!-- JAVA API -->
 		<!-- https://mvnrepository.com/artifact/javax/javaee-api -->
